@@ -42,7 +42,7 @@ Welcome to my GitHub page.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivercaputo&theme=tokyonight&hide_langs_below=1" />
 </a>
 
-
+<!--
 
 ### Oie devs 👋
 
@@ -68,10 +68,6 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 👔 [linkedin][linkedin]
 
 
-```kotlin
-
-}
-```
 
 ```kotlin
 object **SEU NOME** {
@@ -83,10 +79,7 @@ object **SEU NOME** {
 
 }
 ```
-
-
-```kotlin
-
+<p>
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
@@ -97,11 +90,6 @@ object **SEU NOME** {
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-}
-```
-
-
-```kotlin
 ## **Linguagens e Ferramentas:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -115,7 +103,5 @@ object **SEU NOME** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-
-}
-```
+-->
 
