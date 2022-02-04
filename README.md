@@ -49,6 +49,15 @@
 
 [![olivercaputo](https://github-readme-stats.vercel.app/api/top-langs/?username=olivercaputo&hide=html&layout=compact&theme=tokyonight)](https://github.com/olivercaputo/)
 
+<a href="https://github.com/olivercaputo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivercaputo&theme=tokyonight&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/olivercaputo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivercaputo&show_icons=true&theme=tokyonight&line_height=27" alt="OLIVER CAPUTO github stats"/>
+</a>
+
+
 
 
 ### Oie devs 👋
@@ -85,13 +94,14 @@ object **SEU NOME** {
 
 
 ## **GitHub Estatísticas**
+<a href="https://github.com/olivercaputo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivercaputo&show_icons=true&theme=tokyonight&line_height=27" alt="OLIVER CAPUTO github stats"/>
+</a>
+<br>
+<br>
 
 <a href="https://github.com/olivercaputo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivercaputo&theme=tokyonight&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/olivercaputo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivercaputo&show_icons=true&theme=tokyonight&line_height=27" alt="OLIVER CAPUTO github stats"/>
 </a>
 
 [website]: https://codedev.ga/
