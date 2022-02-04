@@ -45,9 +45,9 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-[![card](https://github-readme-stats.vercel.app/api?username=olivercaputo&theme=tokyonight&show_icons=true)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=olivercaputo&theme=tokyonight&show_icons=true)](https://github.com/olivercaputo/)
 
-[![olivercaputo](https://github-readme-stats.vercel.app/api/top-langs/?username=olivercaputo&hide=html&layout=compact&theme=tokionight)](https://github.com/iuricode/)
+[![olivercaputo](https://github-readme-stats.vercel.app/api/top-langs/?username=olivercaputo&hide=html&layout=compact&theme=tokyonight)](https://github.com/olivercaputo/)
 
 
 
@@ -86,17 +86,17 @@ object **SEU NOME** {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivercaputo&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/olivercaputo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivercaputo&theme=tokyonight&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivercaputo&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/olivercaputo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivercaputo&show_icons=true&theme=tokyonight&line_height=27" alt="OLIVER CAPUTO github stats"/>
 </a>
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/tokyonight
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
