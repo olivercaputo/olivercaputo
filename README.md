@@ -11,11 +11,11 @@ Welcome to my GitHub page.
 - 📫 How to reach me: olivercaputo@gmail.com
 
 <p align="left">
-  <a href="https://gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+  <a href="olivercaputo@gmail.com" alt="olivercaputo@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     
-  <a href="https://linkedin.com/in/oliver-caputo" target="blank" alt="Linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://linkedin.com/in/olivercaputo/" alt="Linkedin" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
   
 </p>
 
