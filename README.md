@@ -11,12 +11,17 @@ Welcome to my GitHub page.
 - 📫 How to reach me: olivercaputo@gmail.com
 
 <p align="left">
-  <a href="olivercaputo@gmail.com" alt="olivercaputo@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-    
-  <a href="https://linkedin.com/in/olivercaputo/" alt="Linkedin" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
+  <a href="mailto:olivercaputo@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
+
+  <a href="https://linkedin.com/in/olivercaputo/" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
   
+  <a href="https://wa.me/5511962388885" alt="WhatsApp" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </p>
 
 <br>
