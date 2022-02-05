@@ -11,11 +11,12 @@ Welcome to my GitHub page.
 - 📫 How to reach me: olivercaputo@gmail.com
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=olivercaputo@gmail.com" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliver-caputo/" /></a>
+  <a href="https://gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+    
+  <a href="https://linkedin.com/in/oliver-caputo" target="blank" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  
 </p>
 
 <br>
@@ -39,7 +40,7 @@ Welcome to my GitHub page.
 <br>
 
 <a href="https://github.com/olivercaputo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivercaputo&theme=tokyonight&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivercaputo&theme=tokyonight&hide_langs_below=1" alt="OLIVER CAPUTO github stats"/>
 </a>
 
 <!--
