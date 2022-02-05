@@ -8,14 +8,14 @@ Welcome to my GitHub page.
 <br>
 
 - 🌱 I’m currently learning HTML, CSS, Git, GitHub and JavaScript.
-- 📫 How to reach me: olivercaputo@gmail.com
+- 📫 How to reach me:
 
 <p align="left">
   <a href="mailto:olivercaputo@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
 
-  <a href="https://linkedin.com/in/olivercaputo/" alt="Linkedin" target="_blank">
+  <a href="https://linkedin.com/in/olivercaputo/" alt="Linkedin" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   
