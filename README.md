@@ -1,14 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador olivercaputo">
 
-### Hi there 👋
+### Olá 👋
 
-My name is Oliver Caputo.
+Meu nome é Oliver Caputo.
 
-Welcome to my GitHub page.
+Bem-vindos a minha página no GitHub.
 <br>
 
-- 🌱 I’m currently learning HTML, CSS, Git, GitHub and JavaScript.
-- 📫 How to reach me:
+- Sempre estive ligado a tecnologia e computação.
+- Atualmente estou estudando para retornar a área de programação. 
+- Pretendo me tornar um desenvolvedor Fullstack.
+- Aqui no meu perfil vocês podem ver vários projetos Front-end que desenvolvi usando linguagens como HTML, CSS e Javascript.
+
+<br>
+
+📫 Como entrar em contato comigo:
 
 <p align="left">
   <a href="mailto:olivercaputo@gmail.com" alt="Gmail" target="_blank">
