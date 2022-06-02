@@ -10,7 +10,7 @@ Bem-vindos a minha página no GitHub.
 - Sempre estive ligado a tecnologia e computação.
 - Atualmente estou estudando para retornar a área de programação. 
 - Pretendo me tornar um desenvolvedor Fullstack.
-- Aqui no meu perfil vocês podem ver vários projetos Front-end que desenvolvi usando linguagens como HTML, CSS e Javascript.
+- Aqui no meu perfil vocês podem ver vários projetos Front-end que desenvolvi usando linguagens como HTML, CSS, Javascript e React.
 
 <br>
 
